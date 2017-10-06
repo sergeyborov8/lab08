@@ -9,4 +9,4 @@ addons:
      - george-edison55-precise-backports
    packages:
      - cmake
-     - cmake-date
+     - cmake-data
