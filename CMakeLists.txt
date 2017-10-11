@@ -7,6 +7,7 @@ option(BUILD_EXAMPLES "Build examples" OFF)
 option(BUILD_TESTS "Build tests" OFF)
 option(BUILD_TESTS "Build tests" OFF)
 option(BUILD_TESTS "Build tests" OFF)
+option(BUILD_TESTS "Build tests" OFF)
 
 project(print)
 
