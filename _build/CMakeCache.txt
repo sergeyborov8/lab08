@@ -17,8 +17,8 @@
 //Build examples
 BUILD_EXAMPLES:BOOL=OFF
 
-//No help, variable specified on the command line.
-BUILD_TESTS:UNINITIALIZED=ON
+//Build tests
+BUILD_TESTS:BOOL=ON
 
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
